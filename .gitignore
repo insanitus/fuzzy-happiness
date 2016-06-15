@@ -2,3 +2,9 @@
 .ipynb_checkpoints/*
 
 *.pyc
+
+*.zip
+
+*.gz
+
+Introducción al ecosistema SciPy.slides.html
